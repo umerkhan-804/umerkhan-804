@@ -8,7 +8,7 @@
 I’m a student exploring the world of web and app development and building a strong foundation in HTML, CSS, and Bootstrap.
 This repository documents my learning progress, practice projects, and everything I build as I grow into a frontend developer.
 
-📌 About Me
+📌 About Me:
 
 🔭 Currently working on: strengthening my frontend fundamentals
 
